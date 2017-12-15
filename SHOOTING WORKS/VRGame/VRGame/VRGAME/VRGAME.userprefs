@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="VRGAME.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\VRTK\Scripts\Internal\VRTK_Logger.cs">
+    <Files>
+      <File FileName="Assets\Scripts\VRTK\Scripts\Internal\VRTK_Logger.cs" Line="167" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
